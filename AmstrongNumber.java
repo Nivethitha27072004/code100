@@ -1,6 +1,6 @@
-import java.util.*;
-public class LeadYear {
+/*public class AmstrongNumber {
     public static void main(String[] args) {
 
     }
 }
+*/
